@@ -1,0 +1,562 @@
+{
+  "companies": [
+    {
+      "id": "283f09b6-64a8-42b2-b5f4-7c4908eeee32",
+      "name": "Amos Company",
+      "sector": "Technology",
+      "size": "51-200",
+      "website": "www.amos.co.il",
+      "location": "Tel Aviv",
+      "founded_year": 2016,
+      "description": "this company is a good company",
+      "tags": [
+        "b2b",
+        "SaaS"
+      ],
+      "created_date": "2025-06-25T16:57:17.250586"
+    },
+    {
+      "id": "554869a4-5f30-4a6a-94ff-592fe53901a3",
+      "name": "Noa Company",
+      "sector": "Finance",
+      "size": "11-50",
+      "website": "www.noa.co.il",
+      "location": "Herzelia",
+      "founded_year": 2023,
+      "description": "This is a good company",
+      "tags": [
+        "b2C",
+        "SaaS"
+      ],
+      "created_date": "2025-06-25T17:01:07.883892"
+    },
+    {
+      "id": "ebf530df-6c6a-45bc-9236-61153fe7e88a",
+      "name": "Sivan Company",
+      "sector": "Healthcare",
+      "size": "51-200",
+      "website": "www.sivan.com",
+      "location": "Tel Aviv",
+      "founded_year": 2024,
+      "description": "This Is a good company",
+      "tags": [
+        "Fitness",
+        "Health"
+      ],
+      "created_date": "2025-06-25T17:16:25.205550"
+    },
+    {
+      "id": "a1a822d0-5930-4d07-b2d7-3e7c012b4be8",
+      "name": "Top VC",
+      "sector": "Technology",
+      "size": "51-200",
+      "website": "www.topvc.com",
+      "location": "Tel Aviv",
+      "founded_year": 2010,
+      "description": "The top VC you need for your capital projects",
+      "tags": [
+        "VC",
+        "Funds",
+        "Capital",
+        "Investors"
+      ],
+      "created_date": "2025-06-25T17:18:38.232544"
+    },
+    {
+      "id": "e5c9f592-17e2-4e2b-b75c-9d7e9fad64e2",
+      "name": "TechStart Inc.",
+      "sector": "Technology",
+      "size": "11-50",
+      "website": "https://techstart.example.com",
+      "location": "San Francisco, CA",
+      "founded_year": 2020,
+      "description": "AI-powered marketing automation platform",
+      "tags": [
+        "startup",
+        "b2b",
+        "saas",
+        "ai"
+      ],
+      "created_date": "2025-06-25T17:50:39.565449"
+    },
+    {
+      "id": "0647811c-789a-4a9b-99b6-4f9eab0f2e9a",
+      "name": "GreenEnergy Solutions",
+      "sector": "Manufacturing",
+      "size": "51-200",
+      "website": "https://greenenergy.example.com",
+      "location": "Austin, TX",
+      "founded_year": 2018,
+      "description": "Renewable energy equipment manufacturer",
+      "tags": [
+        "green",
+        "renewable",
+        "manufacturing"
+      ],
+      "created_date": "2025-06-25T17:50:39.565449"
+    },
+    {
+      "id": "410a052f-1ca2-4ba8-8759-471af5e1443d",
+      "name": "FinanceFlow",
+      "sector": "Finance",
+      "size": "201-1000",
+      "website": "https://financeflow.example.com",
+      "location": "New York, NY",
+      "founded_year": 2015,
+      "description": "Digital banking and payment solutions",
+      "tags": [
+        "fintech",
+        "banking",
+        "payments"
+      ],
+      "created_date": "2025-06-25T17:50:39.565449"
+    },
+    {
+      "id": "5720d181-d0db-404f-aaf7-831eda862e9c",
+      "name": "HealthTech Innovations",
+      "sector": "Healthcare",
+      "size": "11-50",
+      "website": "https://healthtech.example.com",
+      "location": "Boston, MA",
+      "founded_year": 2021,
+      "description": "Telemedicine and health monitoring platform",
+      "tags": [
+        "healthcare",
+        "telemedicine",
+        "monitoring"
+      ],
+      "created_date": "2025-06-25T17:50:39.565449"
+    },
+    {
+      "id": "73e2392a-b5a9-499a-9cee-4499abc66121",
+      "name": "TechStart Inc.",
+      "sector": "Technology",
+      "size": "11-50",
+      "website": "https://techstart.example.com",
+      "location": "San Francisco, CA",
+      "founded_year": 2020,
+      "description": "AI-powered marketing automation platform",
+      "tags": [
+        "startup",
+        "b2b",
+        "saas",
+        "ai"
+      ],
+      "created_date": "2025-06-25T17:55:33.501655"
+    },
+    {
+      "id": "7f2f084e-7feb-42df-baf3-f02d599a17f3",
+      "name": "GreenEnergy Solutions",
+      "sector": "Manufacturing",
+      "size": "51-200",
+      "website": "https://greenenergy.example.com",
+      "location": "Austin, TX",
+      "founded_year": 2018,
+      "description": "Renewable energy equipment manufacturer",
+      "tags": [
+        "green",
+        "renewable",
+        "manufacturing"
+      ],
+      "created_date": "2025-06-25T17:55:33.501655"
+    },
+    {
+      "id": "b3159974-136c-4249-a610-0e2356ad917b",
+      "name": "FinanceFlow",
+      "sector": "Finance",
+      "size": "201-1000",
+      "website": "https://financeflow.example.com",
+      "location": "New York, NY",
+      "founded_year": 2015,
+      "description": "Digital banking and payment solutions",
+      "tags": [
+        "fintech",
+        "banking",
+        "payments"
+      ],
+      "created_date": "2025-06-25T17:55:33.501655"
+    },
+    {
+      "id": "882465df-ea22-4cf2-87ca-7edce6129d59",
+      "name": "HealthTech Innovations",
+      "sector": "Healthcare",
+      "size": "11-50",
+      "website": "https://healthtech.example.com",
+      "location": "Boston, MA",
+      "founded_year": 2021,
+      "description": "Telemedicine and health monitoring platform",
+      "tags": [
+        "healthcare",
+        "telemedicine",
+        "monitoring"
+      ],
+      "created_date": "2025-06-25T17:55:33.501655"
+    },
+    {
+      "id": "bd59247b-54e2-4239-856b-4f791d9f2a7a",
+      "name": "TechStart Inc.",
+      "sector": "Technology",
+      "size": "11-50",
+      "website": "https://techstart.example.com",
+      "location": "San Francisco, CA",
+      "founded_year": 2020,
+      "description": "AI-powered marketing automation platform",
+      "tags": [
+        "startup",
+        "b2b",
+        "saas",
+        "ai"
+      ],
+      "created_date": "2025-06-25T17:55:55.405831"
+    },
+    {
+      "id": "ec5609cf-a3da-4678-845e-8fae3d986df1",
+      "name": "GreenEnergy Solutions",
+      "sector": "Manufacturing",
+      "size": "51-200",
+      "website": "https://greenenergy.example.com",
+      "location": "Austin, TX",
+      "founded_year": 2018,
+      "description": "Renewable energy equipment manufacturer",
+      "tags": [
+        "green",
+        "renewable",
+        "manufacturing"
+      ],
+      "created_date": "2025-06-25T17:55:55.405831"
+    },
+    {
+      "id": "4a382766-e557-42f6-8855-a0a78419a313",
+      "name": "FinanceFlow",
+      "sector": "Finance",
+      "size": "201-1000",
+      "website": "https://financeflow.example.com",
+      "location": "New York, NY",
+      "founded_year": 2015,
+      "description": "Digital banking and payment solutions",
+      "tags": [
+        "fintech",
+        "banking",
+        "payments"
+      ],
+      "created_date": "2025-06-25T17:55:55.405831"
+    },
+    {
+      "id": "920e64e1-8561-485d-a79b-782f00cea873",
+      "name": "HealthTech Innovations",
+      "sector": "Healthcare",
+      "size": "11-50",
+      "website": "https://healthtech.example.com",
+      "location": "Boston, MA",
+      "founded_year": 2021,
+      "description": "Telemedicine and health monitoring platform",
+      "tags": [
+        "healthcare",
+        "telemedicine",
+        "monitoring"
+      ],
+      "created_date": "2025-06-25T17:55:55.405831"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "aa04e622-29de-4ad2-a983-dcee7f758a1d",
+      "name": "Moshe Khorshidi",
+      "email": "moshe.khorshidi@pwc.com",
+      "company_name": "Top VC",
+      "position": "Investor",
+      "phone": "0526775714",
+      "linkedin": "Moshe Khorshidi",
+      "role_type": "Decision Maker",
+      "notes": "Seeking Tech Startups in Quantum Computing",
+      "created_date": "2025-06-25T17:48:20.213696"
+    },
+    {
+      "id": "5951201a-c81e-4b48-b8a7-e0057e3b1a92",
+      "name": "John Smith",
+      "email": "john.smith@techstart.example.com",
+      "company_name": "TechStart Inc.",
+      "position": "CEO",
+      "phone": "+1-555-0101",
+      "linkedin": "https://linkedin.com/in/johnsmith",
+      "role_type": "Decision Maker",
+      "notes": "Founder and CEO, very interested in partnerships",
+      "created_date": "2025-06-25T17:50:39.565449"
+    },
+    {
+      "id": "dec7b892-5b4e-4e8d-85f4-907151dee042",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@greenenergy.example.com",
+      "company_name": "GreenEnergy Solutions",
+      "position": "VP Sales",
+      "phone": "+1-555-0102",
+      "linkedin": "https://linkedin.com/in/sarahjohnson",
+      "role_type": "Decision Maker",
+      "notes": "Leads sales efforts, looking for new markets",
+      "created_date": "2025-06-25T17:50:39.565449"
+    },
+    {
+      "id": "60a24090-c665-44e8-a81b-c012ea6743bd",
+      "name": "Michael Chen",
+      "email": "michael.chen@financeflow.example.com",
+      "company_name": "FinanceFlow",
+      "position": "CTO",
+      "phone": "+1-555-0103",
+      "linkedin": "https://linkedin.com/in/michaelchen",
+      "role_type": "Technical",
+      "notes": "Technical leader, interested in API integrations",
+      "created_date": "2025-06-25T17:50:39.565449"
+    },
+    {
+      "id": "a55ca42a-95f0-414e-b745-9c93e667a51c",
+      "name": "John Smith",
+      "email": "john.smith@techstart.example.com",
+      "company_name": "TechStart Inc.",
+      "position": "CEO",
+      "phone": "+1-555-0101",
+      "linkedin": "https://linkedin.com/in/johnsmith",
+      "role_type": "Decision Maker",
+      "notes": "Founder and CEO, very interested in partnerships",
+      "created_date": "2025-06-25T17:55:33.501655"
+    },
+    {
+      "id": "ee287266-37cb-441e-890c-a816629f0164",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@greenenergy.example.com",
+      "company_name": "GreenEnergy Solutions",
+      "position": "VP Sales",
+      "phone": "+1-555-0102",
+      "linkedin": "https://linkedin.com/in/sarahjohnson",
+      "role_type": "Decision Maker",
+      "notes": "Leads sales efforts, looking for new markets",
+      "created_date": "2025-06-25T17:55:33.501655"
+    },
+    {
+      "id": "48b0f339-b8a0-42ea-a7b6-427eb2334f46",
+      "name": "Michael Chen",
+      "email": "michael.chen@financeflow.example.com",
+      "company_name": "FinanceFlow",
+      "position": "CTO",
+      "phone": "+1-555-0103",
+      "linkedin": "https://linkedin.com/in/michaelchen",
+      "role_type": "Technical",
+      "notes": "Technical leader, interested in API integrations",
+      "created_date": "2025-06-25T17:55:33.501655"
+    },
+    {
+      "id": "4d847b58-98aa-48ad-8fbf-eb189012feab",
+      "name": "John Smith",
+      "email": "john.smith@techstart.example.com",
+      "company_name": "TechStart Inc.",
+      "position": "CEO",
+      "phone": "+1-555-0101",
+      "linkedin": "https://linkedin.com/in/johnsmith",
+      "role_type": "Decision Maker",
+      "notes": "Founder and CEO, very interested in partnerships",
+      "created_date": "2025-06-25T17:55:55.405831"
+    },
+    {
+      "id": "242f39ea-b5b4-4283-a0a4-1380d5ba73f9",
+      "name": "Sarah Johnson",
+      "email": "sarah.johnson@greenenergy.example.com",
+      "company_name": "GreenEnergy Solutions",
+      "position": "VP Sales",
+      "phone": "+1-555-0102",
+      "linkedin": "https://linkedin.com/in/sarahjohnson",
+      "role_type": "Decision Maker",
+      "notes": "Leads sales efforts, looking for new markets",
+      "created_date": "2025-06-25T17:55:55.405831"
+    },
+    {
+      "id": "fb51783b-6ec3-4ef2-b332-c28b42661f09",
+      "name": "Michael Chen",
+      "email": "michael.chen@financeflow.example.com",
+      "company_name": "FinanceFlow",
+      "position": "CTO",
+      "phone": "+1-555-0103",
+      "linkedin": "https://linkedin.com/in/michaelchen",
+      "role_type": "Technical",
+      "notes": "Technical leader, interested in API integrations",
+      "created_date": "2025-06-25T17:55:55.405831"
+    }
+  ],
+  "business_needs": [
+    {
+      "id": "2671efcf-e47c-4dd2-9f78-f6418461c44c",
+      "title": "Amos Company business need",
+      "company_name": "Amos Company",
+      "type": "New customer acquisition",
+      "priority": "Medium",
+      "looking_for": "Investor",
+      "target_sectors": [
+        "Technology",
+        "Real Estate"
+      ],
+      "budget_range": "$500K+",
+      "timeline": "1-3 months",
+      "description": "For being able to get a Deal with a big client, Amos' company needs an investor to be able to recruit and buy the necessary skills",
+      "status": "active",
+      "created_date": "2025-06-25T17:05:28.124080"
+    },
+    {
+      "id": "7b497e6b-9ff8-4044-8958-18e05f36e047",
+      "title": "Seeking Series A Investment",
+      "company_name": "TechStart Inc.",
+      "type": "Significant business event",
+      "priority": "High",
+      "looking_for": "Investor",
+      "target_sectors": [
+        "Technology",
+        "Finance"
+      ],
+      "budget_range": "$500K+",
+      "timeline": "3-6 months",
+      "description": "Looking for Series A funding to scale our AI marketing platform. Need investors with experience in B2B SaaS.",
+      "status": "active",
+      "created_date": "2025-06-25T17:50:39.565449"
+    },
+    {
+      "id": "531d498e-997b-4a03-806e-e75a862dd0a2",
+      "title": "Partnership for Energy Storage",
+      "company_name": "GreenEnergy Solutions",
+      "type": "Proactive customer contact",
+      "priority": "Medium",
+      "looking_for": "Partner",
+      "target_sectors": [
+        "Technology",
+        "Manufacturing"
+      ],
+      "budget_range": "$100K-500K",
+      "timeline": "6-12 months",
+      "description": "Seeking technology partners for advanced energy storage solutions. Looking for companies with battery technology expertise.",
+      "status": "active",
+      "created_date": "2025-06-25T17:50:39.565449"
+    },
+    {
+      "id": "f4d386aa-7073-426a-921e-445130096d8c",
+      "title": "Seeking Series A Investment",
+      "company_name": "TechStart Inc.",
+      "type": "Significant business event",
+      "priority": "High",
+      "looking_for": "Investor",
+      "target_sectors": [
+        "Technology",
+        "Finance"
+      ],
+      "budget_range": "$500K+",
+      "timeline": "3-6 months",
+      "description": "Looking for Series A funding to scale our AI marketing platform. Need investors with experience in B2B SaaS.",
+      "status": "active",
+      "created_date": "2025-06-25T17:55:33.501655"
+    },
+    {
+      "id": "3fcfd7f3-8465-42ce-a694-e95e432b221e",
+      "title": "Partnership for Energy Storage",
+      "company_name": "GreenEnergy Solutions",
+      "type": "Proactive customer contact",
+      "priority": "Medium",
+      "looking_for": "Partner",
+      "target_sectors": [
+        "Technology",
+        "Manufacturing"
+      ],
+      "budget_range": "$100K-500K",
+      "timeline": "6-12 months",
+      "description": "Seeking technology partners for advanced energy storage solutions. Looking for companies with battery technology expertise.",
+      "status": "active",
+      "created_date": "2025-06-25T17:55:33.501655"
+    },
+    {
+      "id": "032fbdde-5408-423c-99d4-43503edec261",
+      "title": "Seeking Series A Investment",
+      "company_name": "TechStart Inc.",
+      "type": "Significant business event",
+      "priority": "High",
+      "looking_for": "Investor",
+      "target_sectors": [
+        "Technology",
+        "Finance"
+      ],
+      "budget_range": "$500K+",
+      "timeline": "3-6 months",
+      "description": "Looking for Series A funding to scale our AI marketing platform. Need investors with experience in B2B SaaS.",
+      "status": "active",
+      "created_date": "2025-06-25T17:55:55.405831"
+    },
+    {
+      "id": "8d4305aa-c6e8-4883-b888-6e4a4bd39829",
+      "title": "Partnership for Energy Storage",
+      "company_name": "GreenEnergy Solutions",
+      "type": "Proactive customer contact",
+      "priority": "Medium",
+      "looking_for": "Partner",
+      "target_sectors": [
+        "Technology",
+        "Manufacturing"
+      ],
+      "budget_range": "$100K-500K",
+      "timeline": "6-12 months",
+      "description": "Seeking technology partners for advanced energy storage solutions. Looking for companies with battery technology expertise.",
+      "status": "active",
+      "created_date": "2025-06-25T17:55:55.405831"
+    }
+  ],
+  "connections": [
+    {
+      "id": "0833f901-e1e2-49b9-8acc-a641d6238463",
+      "business_need_id": "2671efcf-e47c-4dd2-9f78-f6418461c44c",
+      "from_entity": "TechStart Inc.",
+      "to_entity": "Top VC",
+      "match_score": 0.85,
+      "status": "contacted",
+      "created_date": "2025-06-20T17:59:44.785082",
+      "updated_date": "2025-06-23T17:59:44.785082",
+      "notes": "[2025-06-20 17:59] High match score! Top VC specializes in tech startups seeking Series A.\n[2025-06-23 17:59] Sent initial pitch deck to their investment team. Waiting for response."
+    },
+    {
+      "id": "de54fb5b-674d-4468-a37e-7b4e342eb72c",
+      "business_need_id": "7b497e6b-9ff8-4044-8958-18e05f36e047",
+      "from_entity": "GreenEnergy Solutions",
+      "to_entity": "Amos Company",
+      "match_score": 0.72,
+      "status": "responded",
+      "created_date": "2025-06-18T17:59:44.785082",
+      "updated_date": "2025-06-24T17:59:44.785082",
+      "notes": "[2025-06-18 17:59] Matched based on B2B SaaS expertise for energy sector.\n[2025-06-21 17:59] Initial contact made through LinkedIn.\n[2025-06-24 17:59] Great response! They're interested in exploring energy management software partnerships. Scheduling call for this week."
+    },
+    {
+      "id": "7ce6f6aa-e24b-4c79-9cc6-0585eb60f147",
+      "business_need_id": "2671efcf-e47c-4dd2-9f78-f6418461c44c",
+      "from_entity": "TechStart Inc.",
+      "to_entity": "Sivan Company",
+      "match_score": 0.68,
+      "status": "connected",
+      "created_date": "2025-06-11T17:59:44.785082",
+      "updated_date": "2025-06-22T17:59:44.785082",
+      "notes": "[2025-06-11 17:59] Healthcare tech + AI marketing = interesting synergy for health/fitness customer acquisition.\n[2025-06-15 17:59] Excellent first call - they need better customer acquisition tools.\n[2025-06-18 17:59] Pilot program agreed! Testing our AI marketing platform for their fitness app.\n[2025-06-22 17:59] SUCCESS! Connection established - they became a paying customer and strategic partner."
+    },
+    {
+      "id": "82179b5d-7c4c-454d-a1b0-926306784d0d",
+      "business_need_id": "7b497e6b-9ff8-4044-8958-18e05f36e047",
+      "from_entity": "GreenEnergy Solutions",
+      "to_entity": "FinanceFlow",
+      "match_score": 0.58,
+      "status": "initiated",
+      "created_date": "2025-06-25T17:59:44.785082",
+      "updated_date": "2025-06-25T17:59:44.785082",
+      "notes": "[2025-06-25 17:59] New potential match identified. FinanceFlow's payment solutions could help our customers finance renewable energy installations. Researching their partnership program."
+    },
+    {
+      "id": "33b9a9a0-ec10-446a-a166-20edbeff76bf",
+      "business_need_id": "2671efcf-e47c-4dd2-9f78-f6418461c44c",
+      "from_entity": "TechStart Inc.",
+      "to_entity": "Noa Company",
+      "match_score": 0.45,
+      "status": "closed",
+      "created_date": "2025-06-04T17:59:44.785082",
+      "updated_date": "2025-06-13T17:59:44.785082",
+      "notes": "[2025-06-04 17:59] Explored potential B2C application of our B2B platform.\n[2025-06-07 17:59] Interesting discussions but different target markets.\n[2025-06-13 17:59] Decided not to pursue - focus mismatch between B2B and B2C. Maintaining friendly relationship for future opportunities."
+    }
+  ],
+  "settings": {}
+}
