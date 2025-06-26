@@ -1,0 +1,435 @@
+=== Business Development Tool - Operations Log ===
+Log started: 2025-06-12T14:41:49.197721
+
+
+============================================================
+[2025-06-12T14:48:02.901894] COMPANY_DELETED
+============================================================
+Company Name: moshe khorshidi
+Company ID: 3992f4c2-7f77-44ef-b358-c2ab4a21f1bb
+Deleted By: System User
+Deletion Reason: test
+Original Sector: Technology
+
+JSON Record:
+{
+  "timestamp": "2025-06-12T14:48:02.901894",
+  "operation": "COMPANY_DELETED",
+  "company_id": "3992f4c2-7f77-44ef-b358-c2ab4a21f1bb",
+  "company_name": "moshe khorshidi",
+  "sector": "Technology",
+  "deleted_by": "System User",
+  "deletion_reason": "test",
+  "original_data": {
+    "id": "3992f4c2-7f77-44ef-b358-c2ab4a21f1bb",
+    "name": "moshe khorshidi",
+    "sector": "Technology",
+    "size": "1-10",
+    "website": "",
+    "location": "",
+    "founded_year": 2020,
+    "description": "",
+    "tags": [],
+    "created_date": "2025-06-12T14:27:27.512472"
+  }
+}
+
+
+============================================================
+[2025-06-12T15:04:00.993081] COMPANY_CREATED
+============================================================
+Company Name: moshek
+Company ID: e00eec17-4540-439e-904f-dea67a1757e3
+Sector: Technology
+Size: 1-10
+Location: Yavne
+Note: Company created via web interface
+
+JSON Record:
+{
+  "timestamp": "2025-06-12T15:04:00.993081",
+  "operation": "COMPANY_CREATED",
+  "company_id": "e00eec17-4540-439e-904f-dea67a1757e3",
+  "company_name": "moshek",
+  "sector": "Technology",
+  "size": "1-10",
+  "location": "Yavne",
+  "user_note": "Company created via web interface",
+  "details": {
+    "website": "www.test.com",
+    "founded_year": 2024,
+    "description": "",
+    "tags": []
+  }
+}
+
+
+============================================================
+[2025-06-12T15:04:52.910649] COMPANY_CREATED
+============================================================
+Company Name: moshek
+Company ID: b504a4f8-f927-4c44-acda-cde130bd936b
+Sector: Technology
+Size: 1-10
+Location: Yavne
+Note: Company created via web interface
+
+JSON Record:
+{
+  "timestamp": "2025-06-12T15:04:52.910649",
+  "operation": "COMPANY_CREATED",
+  "company_id": "b504a4f8-f927-4c44-acda-cde130bd936b",
+  "company_name": "moshek",
+  "sector": "Technology",
+  "size": "1-10",
+  "location": "Yavne",
+  "user_note": "Company created via web interface",
+  "details": {
+    "website": "www.test.com",
+    "founded_year": 2024,
+    "description": "",
+    "tags": []
+  }
+}
+
+
+============================================================
+[2025-06-12T15:05:08.240279] COMPANY_CREATED
+============================================================
+Company Name: moshek
+Company ID: 3d348086-e84a-4d99-9b16-f45bbec64a9f
+Sector: Technology
+Size: 1-10
+Location: Yavne
+Note: Company created via web interface
+
+JSON Record:
+{
+  "timestamp": "2025-06-12T15:05:08.240279",
+  "operation": "COMPANY_CREATED",
+  "company_id": "3d348086-e84a-4d99-9b16-f45bbec64a9f",
+  "company_name": "moshek",
+  "sector": "Technology",
+  "size": "1-10",
+  "location": "Yavne",
+  "user_note": "Company created via web interface",
+  "details": {
+    "website": "www.test.com",
+    "founded_year": 2024,
+    "description": "",
+    "tags": []
+  }
+}
+
+
+============================================================
+[2025-06-12T15:05:15.910270] COMPANY_CREATED
+============================================================
+Company Name: moshek
+Company ID: 0d5b4cb3-eb52-4fe9-8350-2b7de05b70e0
+Sector: Technology
+Size: 1-10
+Location: Yavne
+Note: Company created via web interface
+
+JSON Record:
+{
+  "timestamp": "2025-06-12T15:05:15.910270",
+  "operation": "COMPANY_CREATED",
+  "company_id": "0d5b4cb3-eb52-4fe9-8350-2b7de05b70e0",
+  "company_name": "moshek",
+  "sector": "Technology",
+  "size": "1-10",
+  "location": "Yavne",
+  "user_note": "Company created via web interface",
+  "details": {
+    "website": "www.test.com",
+    "founded_year": 2024,
+    "description": "",
+    "tags": []
+  }
+}
+
+
+============================================================
+[2025-06-12T15:05:29.158548] COMPANY_CREATED
+============================================================
+Company Name: moshek
+Company ID: 3b84e964-d58d-4c00-b040-7c12e2ea9387
+Sector: Technology
+Size: 1-10
+Location: Yavne
+Note: Company created via web interface
+
+JSON Record:
+{
+  "timestamp": "2025-06-12T15:05:29.158548",
+  "operation": "COMPANY_CREATED",
+  "company_id": "3b84e964-d58d-4c00-b040-7c12e2ea9387",
+  "company_name": "moshek",
+  "sector": "Technology",
+  "size": "1-10",
+  "location": "Yavne",
+  "user_note": "Company created via web interface",
+  "details": {
+    "website": "www.test.com",
+    "founded_year": 2024,
+    "description": "",
+    "tags": []
+  }
+}
+
+
+============================================================
+[2025-06-12T15:05:40.527803] COMPANY_DELETED
+============================================================
+Company Name: moshek
+Company ID: e00eec17-4540-439e-904f-dea67a1757e3
+Deleted By: System User
+Deletion Reason: sc
+Original Sector: Technology
+
+JSON Record:
+{
+  "timestamp": "2025-06-12T15:05:40.527803",
+  "operation": "COMPANY_DELETED",
+  "company_id": "e00eec17-4540-439e-904f-dea67a1757e3",
+  "company_name": "moshek",
+  "sector": "Technology",
+  "deleted_by": "System User",
+  "deletion_reason": "sc",
+  "original_data": {
+    "id": "e00eec17-4540-439e-904f-dea67a1757e3",
+    "name": "moshek",
+    "sector": "Technology",
+    "size": "1-10",
+    "website": "www.test.com",
+    "location": "Yavne",
+    "founded_year": 2024,
+    "description": "",
+    "tags": [],
+    "created_date": "2025-06-12T15:04:00.993081"
+  }
+}
+
+
+============================================================
+[2025-06-12T15:06:35.248515] COMPANY_CREATED
+============================================================
+Company Name: sscsc
+Company ID: 56d98857-53ec-42eb-a093-9529bc206b78
+Sector: Technology
+Size: 1-10
+Location: 
+Note: Company created via web interface
+
+JSON Record:
+{
+  "timestamp": "2025-06-12T15:06:35.248515",
+  "operation": "COMPANY_CREATED",
+  "company_id": "56d98857-53ec-42eb-a093-9529bc206b78",
+  "company_name": "sscsc",
+  "sector": "Technology",
+  "size": "1-10",
+  "location": "",
+  "user_note": "Company created via web interface",
+  "details": {
+    "website": "",
+    "founded_year": 2020,
+    "description": "",
+    "tags": []
+  }
+}
+
+
+============================================================
+[2025-06-12T15:06:40.950444] COMPANY_CREATED
+============================================================
+Company Name: sscsc
+Company ID: be6592cd-84e7-4f59-9a97-2022e601e619
+Sector: Technology
+Size: 1-10
+Location: 
+Note: Company created via web interface
+
+JSON Record:
+{
+  "timestamp": "2025-06-12T15:06:40.950444",
+  "operation": "COMPANY_CREATED",
+  "company_id": "be6592cd-84e7-4f59-9a97-2022e601e619",
+  "company_name": "sscsc",
+  "sector": "Technology",
+  "size": "1-10",
+  "location": "",
+  "user_note": "Company created via web interface",
+  "details": {
+    "website": "",
+    "founded_year": 2020,
+    "description": "",
+    "tags": []
+  }
+}
+
+
+============================================================
+[2025-06-25T16:55:33.319594] COMPANY_DELETED
+============================================================
+Company Name: sscsc
+Company ID: 56d98857-53ec-42eb-a093-9529bc206b78
+Deleted By: System User
+Deletion Reason: test
+Original Sector: Technology
+
+JSON Record:
+{
+  "timestamp": "2025-06-25T16:55:33.319594",
+  "operation": "COMPANY_DELETED",
+  "company_id": "56d98857-53ec-42eb-a093-9529bc206b78",
+  "company_name": "sscsc",
+  "sector": "Technology",
+  "deleted_by": "System User",
+  "deletion_reason": "test",
+  "original_data": {
+    "id": "56d98857-53ec-42eb-a093-9529bc206b78",
+    "name": "sscsc",
+    "sector": "Technology",
+    "size": "1-10",
+    "website": "",
+    "location": "",
+    "founded_year": 2020,
+    "description": "",
+    "tags": [],
+    "created_date": "2025-06-12T15:06:35.248515"
+  }
+}
+
+
+============================================================
+[2025-06-25T16:57:17.250586] COMPANY_CREATED
+============================================================
+Company Name: Amos Company
+Company ID: 283f09b6-64a8-42b2-b5f4-7c4908eeee32
+Sector: Technology
+Size: 51-200
+Location: Tel Aviv
+Note: Company created via web interface
+
+JSON Record:
+{
+  "timestamp": "2025-06-25T16:57:17.250586",
+  "operation": "COMPANY_CREATED",
+  "company_id": "283f09b6-64a8-42b2-b5f4-7c4908eeee32",
+  "company_name": "Amos Company",
+  "sector": "Technology",
+  "size": "51-200",
+  "location": "Tel Aviv",
+  "user_note": "Company created via web interface",
+  "details": {
+    "website": "www.amos.co.il",
+    "founded_year": 2016,
+    "description": "this company is a good company",
+    "tags": [
+      "b2b",
+      "SaaS"
+    ]
+  }
+}
+
+
+============================================================
+[2025-06-25T17:01:07.883892] COMPANY_CREATED
+============================================================
+Company Name: Noa Company
+Company ID: 554869a4-5f30-4a6a-94ff-592fe53901a3
+Sector: Finance
+Size: 11-50
+Location: Herzelia
+Note: Company created via web interface
+
+JSON Record:
+{
+  "timestamp": "2025-06-25T17:01:07.883892",
+  "operation": "COMPANY_CREATED",
+  "company_id": "554869a4-5f30-4a6a-94ff-592fe53901a3",
+  "company_name": "Noa Company",
+  "sector": "Finance",
+  "size": "11-50",
+  "location": "Herzelia",
+  "user_note": "Company created via web interface",
+  "details": {
+    "website": "www.noa.co.il",
+    "founded_year": 2023,
+    "description": "This is a good company",
+    "tags": [
+      "b2C",
+      "SaaS"
+    ]
+  }
+}
+
+
+============================================================
+[2025-06-25T17:16:25.205550] COMPANY_CREATED
+============================================================
+Company Name: Sivan Company
+Company ID: ebf530df-6c6a-45bc-9236-61153fe7e88a
+Sector: Healthcare
+Size: 51-200
+Location: Tel Aviv
+Note: Company created via web interface
+
+JSON Record:
+{
+  "timestamp": "2025-06-25T17:16:25.205550",
+  "operation": "COMPANY_CREATED",
+  "company_id": "ebf530df-6c6a-45bc-9236-61153fe7e88a",
+  "company_name": "Sivan Company",
+  "sector": "Healthcare",
+  "size": "51-200",
+  "location": "Tel Aviv",
+  "user_note": "Company created via web interface",
+  "details": {
+    "website": "www.sivan.com",
+    "founded_year": 2024,
+    "description": "This Is a good company",
+    "tags": [
+      "Fitness",
+      "Health"
+    ]
+  }
+}
+
+
+============================================================
+[2025-06-25T17:18:38.232544] COMPANY_CREATED
+============================================================
+Company Name: Top VC
+Company ID: a1a822d0-5930-4d07-b2d7-3e7c012b4be8
+Sector: Technology
+Size: 51-200
+Location: Tel Aviv
+Note: Company created via web interface
+
+JSON Record:
+{
+  "timestamp": "2025-06-25T17:18:38.232544",
+  "operation": "COMPANY_CREATED",
+  "company_id": "a1a822d0-5930-4d07-b2d7-3e7c012b4be8",
+  "company_name": "Top VC",
+  "sector": "Technology",
+  "size": "51-200",
+  "location": "Tel Aviv",
+  "user_note": "Company created via web interface",
+  "details": {
+    "website": "www.topvc.com",
+    "founded_year": 2010,
+    "description": "The top VC you need for your capital projects",
+    "tags": [
+      "VC",
+      "Funds",
+      "Capital",
+      "Investors"
+    ]
+  }
+}
+
